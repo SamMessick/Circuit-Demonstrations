@@ -7,4 +7,4 @@
 <h2>Sequential Logic Circuits</h2>
 <a href="http://tinyurl.com/y7kt9vrk">RS Latch</a><br>
 <a href="http://tinyurl.com/y9fwjvmf">D-Latch</a></br>
-<a href="http://tinyurl.com/y8g58daj">D Flip-Flop</a><br>
+<a href="http://tinyurl.com/yd848o2k">D Flip-Flop</a><br>
