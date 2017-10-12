@@ -10,4 +10,4 @@
 <a href="http://tinyurl.com/yd848o2k">D Flip-Flop</a><br>
 
 <h2>Applications</h2>
-<a href="http://tinyurl.com/y8h3a9r5">Traffic Light</a>
+<a href="http://tinyurl.com/yafq6o2s">Traffic Light</a>
