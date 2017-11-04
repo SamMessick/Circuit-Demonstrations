@@ -23,9 +23,17 @@
 <a href="http://tinyurl.com/yd848o2k">*JK Flip-Flop</a><br>
 <a href="http://tinyurl.com/yd848o2k">*JK Master-Slave Flip-Flop</a><br>
 <a href="http://tinyurl.com/yd848o2k">*Toggle Flip-Flop</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Ripple Counter</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Synchronous Counter</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Divider Counter</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Ring Counter</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Johnson Counter</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Shift Register</a><br>
 
 <h2>Applications</h2>
 <a href="http://tinyurl.com/ycpxm6we">Traffic Light</a>
+<a href="http://tinyurl.com/yd848o2k">*Digital Clock</a><br>
+<a href="http://tinyurl.com/yd848o2k">*Vending Machine</a><br>
 <br>
 <br>
 <br>
