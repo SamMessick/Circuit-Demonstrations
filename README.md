@@ -34,6 +34,8 @@
 <a href="http://tinyurl.com/ycpxm6we">Traffic Light</a><br>
 <a href="http://tinyurl.com/yd848o2k">*Digital Clock</a><br>
 <a href="http://tinyurl.com/yd848o2k">*Vending Machine</a><br>
+<a href="http://tinyurl.com/yd848o2k">*2x2 DRAM</a><br>
+<a href="http://tinyurl.com/yd848o2k">*2x2 SRAM</a><br>
 <br>
 <br>
 <br>
